@@ -1,7 +1,7 @@
 # Molecules_VMD
-Representacions de molecules i estructures amb VMD
+# Representacions de molècules i estructures amb VMD.
 
-En la carpeta MoleculaProblema es troben els següent fitxers:
+A la carpeta MoleculaProblema es troben els següent fitxers:
 
 - protein.pdb: Aquest arxiu conté la proteïna del sistema.
 - cadenadna.pdb: Aquest arxiu conté l'estructura de la doble hèlix d'ADN.
