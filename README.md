@@ -1,5 +1,5 @@
 # Molecules_VMD
-# Representacions de molècules i estructures amb VMD.
+Representacions de molècules i estructures amb VMD.
 
 A la carpeta MoleculaProblema es troben els següent fitxers:
 
