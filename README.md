@@ -1,2 +1,10 @@
 # Molecules_VMD
 Representacions de molecules i estructures amb VMD
+
+En la carpeta MoleculaProblema es troben els següent fitxers:
+
+- protein.pdb: Aquest arxiu conté la proteïna del sistema.
+- cadenadna.pdb: Aquest arxiu conté l'estructura de la doble hèlix d'ADN.
+- drug.pdb: Aquest arxiu corresponen a la molècula petita, la qual consisteix en el fàrmac, que interacciona amb el sistema.
+- water.pdb: Aquest arxiu conté les molècules d'aigua en el sistema.
+- allnotprotein.pdb: Fitxer que inclou tots els elements del sistema que no són proteïna (ADN, aigua, fàrmac).
